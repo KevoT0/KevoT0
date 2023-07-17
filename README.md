@@ -8,7 +8,7 @@
 KevoT0/KevoT0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevoT0">Student</a>, <a href="www.linkedin.com/in/akano-kevin-oluwatosin-6a51a511b/">Cybrscurity Student</a></h1>
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevoT0">Student</a>, <a href="https://www.linkedin.com/in/akano-kevin-oluwatosin-6a51a511b/">Cybrscurity Student</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
