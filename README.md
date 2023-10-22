@@ -5,6 +5,7 @@
 - <b>Windows Active Directory</b>
 - <b>Vulnerability Management (Nessus)</b>
 - <b>Penetration Testing with Log Analysis (LimaCharlie)</b>
+- <b>Honeypot Hosted in the Cloud<b>
 <h2>📺 Certification</h2>
 
 - CompTIA Security+
