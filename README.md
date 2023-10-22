@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Windows Active Directory</b>
--  <b><a href="https://github.com/KevoT0/KevoT0/blob/e5ca8d629b29e7b857140671d83e9d0fc83e2ebe/VULNERABILITY%20ASSESSMENT%20LAB.docx">Vulnerability Management (Nessus)</b>
+- <b>Vulnerability Management (Nessus)</b>
 - <b>Penetration Testing with Log Analysis (LimaCharlie)</b>
 <h2>📺 Certification</h2>
 
