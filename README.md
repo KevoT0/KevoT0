@@ -6,7 +6,7 @@
 - <b>Vulnerability Management (Nessus)</b>
 - <b>Penetration Testing with Log Analysis (LimaCharlie)</b>
 - <b>Honeypot Hosted in the Cloud (https://github.com/KevoT0/Honeypot-Hosted-In-the-Cloud-Lab) <b>
-- <b>Password Manager Hosted in the Cloud <b>
+- <b>Password Manager Hosted in the Cloud (https://github.com/KevoT0/Password-Manager-Hosted-in-the-Cloud-AWS-) <b>
 <h2>📺 Certification</h2>
 
 - CompTIA Security+
