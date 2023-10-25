@@ -10,7 +10,7 @@
 - CompTIA Security+
 - CompTIA Network+
 - AWS Cloud Practitioner
-- AWS Solution Architect Associate (Ongoing)
+- AWS Solution Architect Associate
 
 <h2> 🤳 Connect with me:</h2>
 
