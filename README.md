@@ -14,7 +14,6 @@
 - CompTIA Network+
 - AWS Cloud Practitioner
 - AWS Solution Architect Associate
-- Qualys Vulnerability Management Detection and Response training - In progress
 
 <h2> 🤳 Connect with me:</h2>
 
