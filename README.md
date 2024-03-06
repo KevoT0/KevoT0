@@ -7,6 +7,7 @@
 - <b>Microsoft Sentinel SIEM (https://github.com/KevoT0/Microsoft-Sentinel-SIEM) <b>
 - <b>Penetration testing and Log Analysis(LimaCharlie) (https://github.com/KevoT0/Penetration-testing-and-Log-Analysis) <b>
 - <b>Implementing a SOC and Honeynet in Azure (https://github.com/KevoT0/Implementing-a-SOC-and-Honeynet-in-Azure)<b>
+- <b>Snort Challenge: Live Attacks<b>
 
 <h2>📺 Certification</h2>
 
