@@ -8,8 +8,8 @@
 - <b>Penetration testing and Log Analysis(LimaCharlie) (https://github.com/KevoT0/Penetration-testing-and-Log-Analysis) <b>
 - <b>Implementing a SOC and Honeynet in Azure (https://github.com/KevoT0/Implementing-a-SOC-and-Honeynet-in-Azure)<b>
 - <b>Snort Challenge: Live Attacks (https://github.com/KevoT0/Snort-Challenge-Live-Attack)<b>
-- <b>Investigating with Splunk (https://github.com/KevoT0/Investigating-with-splunk-Tryhackme-)
-- <b>Bengin: Splnunk Challenge Tryhackme
+- <b>Investigating with Splunk (https://github.com/KevoT0/Investigating-with-splunk-Tryhackme)
+- <b>Bengin: Splnunk Challenge Tryhackme (https://github.com/KevoT0/Benign-Splunk-Challenge-Tryhackme)
 
 <h2>📺 Certification</h2>
 
