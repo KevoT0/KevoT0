@@ -8,7 +8,7 @@
 - <b>Penetration testing and Log Analysis(LimaCharlie) (https://github.com/KevoT0/Penetration-testing-and-Log-Analysis) <b>
 - <b>Implementing a SOC and Honeynet in Azure (https://github.com/KevoT0/Implementing-a-SOC-and-Honeynet-in-Azure)<b>
 
-<h2>TRYHACKME PROJECTS </h2>
+<h2>👨‍💻 TRYHACKME PROJECTS </h2>
 
 - <b>Snort Challenge: Live Attacks (https://github.com/KevoT0/Snort-Challenge-Live-Attack)<b>
 - <b>Investigating with Splunk (https://github.com/KevoT0/Investigating-with-splunk-Tryhackme)
