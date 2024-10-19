@@ -12,9 +12,9 @@
 <h2>👨‍💻 TRYHACKME PROJECTS </h2>
 <h3> SOC ANALYST LEVEL 1 </h3>
 - <b>Snort Challenge: Live Attacks (https://github.com/KevoT0/Snort-Challenge-Live-Attack)<b>
-- <b>Investigating with Splunk (https://github.com/KevoT0/Investigating-with-splunk-Tryhackme)
-- <b>Bengin: Splnunk Challenge Tryhackme (https://github.com/KevoT0/Benign-Splunk-Challenge-Tryhackme)
-- <b>Summit Challenge (https://github.com/KevoT0/Tryhackme-Summit-Challenge)
+- <b>Investigating with Splunk (https://github.com/KevoT0/Investigating-with-splunk-Tryhackme)<b>
+- <b>Bengin: Splnunk Challenge Tryhackme (https://github.com/KevoT0/Benign-Splunk-Challenge-Tryhackme)<b>
+- <b>Summit Challenge (https://github.com/KevoT0/Tryhackme-Summit-Challenge)<b>
 
 <h2>📺 Certification</h2>
 
