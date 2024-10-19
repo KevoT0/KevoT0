@@ -7,14 +7,14 @@
 - <b>Microsoft Sentinel SIEM (https://github.com/KevoT0/Microsoft-Sentinel-SIEM) <b>
 - <b>Penetration testing and Log Analysis(LimaCharlie) (https://github.com/KevoT0/Penetration-testing-and-Log-Analysis) <b>
 - <b>Implementing a SOC and Honeynet in Azure (https://github.com/KevoT0/Implementing-a-SOC-and-Honeynet-in-Azure)<b>
+- <b>Vulnerability Management: Nessus (https://github.com/KevoT0/Vulnerability-Management-Nessus)<b>
 
 <h2>👨‍💻 TRYHACKME PROJECTS </h2>
 
 - <b>Snort Challenge: Live Attacks (https://github.com/KevoT0/Snort-Challenge-Live-Attack)<b>
 - <b>Investigating with Splunk (https://github.com/KevoT0/Investigating-with-splunk-Tryhackme)
 - <b>Bengin: Splnunk Challenge Tryhackme (https://github.com/KevoT0/Benign-Splunk-Challenge-Tryhackme)
-- <b>Vulnerability Management: Nessus (https://github.com/KevoT0/Vulnerability-Management-Nessus)
-- <b> Summit Challenge (https://github.com/KevoT0/Tryhackme-Summit-Challenge)
+- <b>Summit Challenge (https://github.com/KevoT0/Tryhackme-Summit-Challenge)
 
 <h2>📺 Certification</h2>
 
