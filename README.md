@@ -1,9 +1,11 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevoT0">Graduate</a>, <a href="https://www.linkedin.com/in/akano-kevin-oluwatosin/">Cyberscurity Graduate</a></h1>
 
-<h2>👨‍💻 CYSA+ Projects:</h2>
+<h2>👨‍💻 CYSA+ Projects</h2>
+
 - <b> Setting Up Active direcctory & creating a Group Policy Object (https://github.com/KevoT0/Azure-AD)<b>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
 - <b>Honeypot Hosted in the Cloud (https://github.com/KevoT0/Honeypot-Hosted-In-the-Cloud-Lab) <b>
 - <b>Password Manager Hosted in the Cloud (https://github.com/KevoT0/Password-Manager-Hosted-in-the-Cloud-AWS-) <b>
 - <b>Microsoft Sentinel SIEM (https://github.com/KevoT0/Microsoft-Sentinel-SIEM) <b>
