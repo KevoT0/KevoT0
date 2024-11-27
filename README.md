@@ -3,6 +3,7 @@
 <h2>👨‍💻 CYSA+ Projects</h2>
 
 - <b> Setting Up Active direcctory & creating a Group Policy Object (https://github.com/KevoT0/Azure-AD)<b>
+- <b>  <b>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
