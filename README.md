@@ -3,7 +3,7 @@
 <h2>👨‍💻 CYSA+ Projects</h2>
 
 - <b> Setting Up Active direcctory & creating a Group Policy Object (https://github.com/KevoT0/Azure-AD)<b>
-- <b>  <b>
+- <b> Metasploitable Network Capture Analysis (https://github.com/KevoT0/Peeking-behind-the-Curtin-Wireshark-Based-Network-Security-Assessment)<b>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
