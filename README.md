@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevoT0">Graduate</a>, <a href="www.linkedin.com/in/kevinakano">Cyberscurity Graduate</a></h1>
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevoT0">Graduate</a>, Cyberscurity Graduate</h1>
 
 <h2>👨‍💻 CYSA+ Projects</h2>
 
