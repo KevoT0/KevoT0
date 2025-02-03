@@ -1,7 +1,8 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevoT0">Graduate</a>, Cyberscurity Graduate</h1>
 
 <h2>👨‍💻 GRC Analyst Projects</h2>
-- <b> Cloud Audit  (https://github.com/KevoT0/)<b>
+
+- <b> Cloud Audit (https://github.com/KevoT0/)<b>
 - <b> Vulnerability assessment (https://github.com/KevoT0/)<b>
 
 <h2>👨‍💻 CYSA+ Projects</h2>
