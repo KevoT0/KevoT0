@@ -3,7 +3,7 @@
 <h2>👨‍💻 GRC Analyst Projects</h2>
 
 - <b> Cloud Audit (https://github.com/KevoT0/)<b>
-- <b> Vulnerability assessment (https://github.com/KevoT0/Vuln-Management)<b>
+- <b> Vulnerability assessment (https://github.com/KevoT0/Vuln-Manage)<b>
 
 <h2>👨‍💻 CYSA+ Projects</h2>
 
