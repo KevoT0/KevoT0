@@ -4,6 +4,7 @@
 
 - <b> Cloud Audit (https://github.com/KevoT0/Cloud-Audit)<b>
 - <b> Vulnerability Management (https://github.com/KevoT0/Vuln-Manage)<b>
+- <b> Vendor Risk Assessment (https://github.com/KevoT0/Vendor-Risk-assessment)<b>
 
 <h2>👨‍💻 CYSA+ Projects</h2>
 
