@@ -9,6 +9,8 @@
 - <b> Development of a Data Privacy Compliance Program for a FinTech Startup: NovaPay (https://github.com/KevoT0/Development-of-a-Data-Privacy-Compliance-program-for-a-Fintech-Startup)<b>
 - <b> Internal Audit (https://github.com/KevoT0/Internal-Audit)<b>
 - <b> TPRM Framwork (https://github.com/KevoT0/TPRM-Framework)<b>
+- <b> Vendor Risk Ass (https://github.com/KevoT0/Vendor-Risk-Ass)<b>
+
 <h2>👨‍💻 CYSA+ Projects</h2>
 
 - <b> Setting Up Active direcctory & creating a Group Policy Object (https://github.com/KevoT0/Azure-AD)<b>
