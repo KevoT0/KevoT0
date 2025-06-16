@@ -7,7 +7,7 @@
 - <b> Vendor Risk Assessment (https://github.com/KevoT0/Vendor-Risk-assessment)<b>
 - <b> IT General Controls Assessment & Improvement Plan (https://github.com/KevoT0/IT-General-Controls-Assessment-Improvement-Plan)<b>
 - <b> Development of a Data Privacy Compliance Program for a FinTech Startup: NovaPay (https://github.com/KevoT0/Development-of-a-Data-Privacy-Compliance-program-for-a-Fintech-Startup)<b>
-
+- <b> Internal Audit () <b>
 <h2>👨‍💻 CYSA+ Projects</h2>
 
 - <b> Setting Up Active direcctory & creating a Group Policy Object (https://github.com/KevoT0/Azure-AD)<b>
