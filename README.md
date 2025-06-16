@@ -6,6 +6,7 @@
 - <b> Vulnerability Management (https://github.com/KevoT0/Vuln-Manage)<b>
 - <b> Vendor Risk Assessment (https://github.com/KevoT0/Vendor-Risk-assessment)<b>
 - <b> IT General Controls Assessment & Improvement Plan (https://github.com/KevoT0/IT-General-Controls-Assessment-Improvement-Plan)<b>
+- <b> Development of a Data Privacy Compliance Program for a FinTech Startup: NovaPay ()<b>
 
 <h2>👨‍💻 CYSA+ Projects</h2>
 
