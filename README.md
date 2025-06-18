@@ -10,7 +10,7 @@
 - <b> Internal Audit (https://github.com/KevoT0/Internal-Audit)<b>
 - <b> TPRM Framwork (https://github.com/KevoT0/TPRM-Framework)<b>
 - <b> Vendor Risk Ass (https://github.com/KevoT0/Vendor-Risk-Ass)<b>
-- <b> Cyber security Incident Response plan(IRP)for Aurora SaaS ()<b>
+- <b> Cyber security Incident Response plan(IRP)for Aurora SaaS (https://github.com/KevoT0/cybersecurity-irp-aurora)<b>
 
 <h2>👨‍💻 CYSA+ Projects</h2>
 
