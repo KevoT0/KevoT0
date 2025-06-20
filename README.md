@@ -11,6 +11,7 @@
 - <b> TPRM Framwork (https://github.com/KevoT0/TPRM-Framework)<b>
 - <b> Vendor Risk Ass (https://github.com/KevoT0/Vendor-Risk-Ass)<b>
 - <b> Cyber security Incident Response plan(IRP)for Aurora SaaS (https://github.com/KevoT0/cybersecurity-irp-aurora)<b>
+- <b> GRC Policy & Standard Development and Management for "InnovateTech Solutions" (https://github.com/KevoT0/grc-policy-framework-innovatetech)<b>
 
 <h2>👨‍💻 CYSA+ Projects</h2>
 
