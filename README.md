@@ -15,6 +15,7 @@
 - <b> Business Continuity Management (BCM) & Disaster Recovery (DR) Plan Development for CapitalLink Bank (https://github.com/KevoT0/capitallink-bcm-dr-plan)<b>
 - <b> Security Awareness & Training Program for MedStar Health Solutions (https://github.com/KevoT0/MedStar-Security-Awareness)<b>
 - <b> Secure-by-Design: SSDLC Simulation Project (https://github.com/KevoT0/ssdcl-integration-codesecure)<b>
+- <b> Enterprise Risk Management (ERM) Framework for Manufacturing Operations(https://github.com/KevoT0/grc-erm-framework)<b>
 
 <h2>👨‍💻 CYSA+ Projects</h2>
 
