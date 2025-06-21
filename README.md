@@ -14,6 +14,7 @@
 - <b> GRC Policy & Standard Development and Management for "InnovateTech Solutions" (https://github.com/KevoT0/grc-policy-framework-innovatetech)<b>
 - <b> Business Continuity Management (BCM) & Disaster Recovery (DR) Plan Development for CapitalLink Bank (https://github.com/KevoT0/capitallink-bcm-dr-plan)<b>
 - <b> Security Awareness & Training Program for MedStar Health Solutions (https://github.com/KevoT0/MedStar-Security-Awareness)<b>
+- <b> Secure-by-Design: SSDLC Simulation Project (https://github.com/KevoT0/ssdcl-integration-codesecure)<b>
 
 <h2>👨‍💻 CYSA+ Projects</h2>
 
