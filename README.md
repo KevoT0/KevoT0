@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 GRC Analyst Projects</h2>
 
-- <b> Cloud Audit (https://github.com/KevoT0/Cloud-Audit)<b>
-- <b> Vulnerability Management (https://github.com/KevoT0/Vuln-Manage)<b>
+- <b> Cloud Audit (https://github.com/KevoT0/Cloud-Audit)</b>
+- <b> Vulnerability Management (https://github.com/KevoT0/Vuln-Manage)</b>
 - <b> Vendor Risk Assessment (https://github.com/KevoT0/Vendor-Risk-assessment)<b>
 - <b> IT General Controls Assessment & Improvement Plan (https://github.com/KevoT0/IT-General-Controls-Assessment-Improvement-Plan)<b>
 - <b> Development of a Data Privacy Compliance Program for a FinTech Startup: NovaPay (https://github.com/KevoT0/Development-of-a-Data-Privacy-Compliance-program-for-a-Fintech-Startup)<b>
