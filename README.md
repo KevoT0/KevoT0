@@ -16,7 +16,7 @@
 - <b> Security Awareness & Training Program for MedStar Health Solutions (https://github.com/KevoT0/MedStar-Security-Awareness)<b>
 - <b> Secure-by-Design: SSDLC Simulation Project (https://github.com/KevoT0/ssdcl-integration-codesecure)<b>
 - <b> Enterprise Risk Management (ERM) Framework for Manufacturing Operations(https://github.com/KevoT0/grc-erm-framework)<b>
-- <b> Enterprise Compliance Program Development – Nexus Global (https://github.com/KevoT0/enterprise-compliance-program-nexus-global)<b>
+- <b> Enterprise Compliance Program Development – Nexus Global (https://github.com/KevoT0/enterprise-compliance-program)<b>
 - <b> GRC Technology Implementation & Optimization (https://github.com/KevoT0/grc-technology-implementation)<b>
 - <b> Cloud Security Architecture Review & Design (https://github.com/KevoT0/cloud-security-architecture-review)<b>
 
