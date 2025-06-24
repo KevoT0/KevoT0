@@ -18,6 +18,7 @@
 - <b> Enterprise Risk Management (ERM) Framework for Manufacturing Operations(https://github.com/KevoT0/grc-erm-framework)<b>
 - <b> Enterprise Compliance Program Development – Nexus Global (https://github.com/KevoT0/enterprise-compliance-program-nexus-global)<b>
 - <b> GRC Technology Implementation & Optimization (https://github.com/KevoT0/grc-technology-implementation-nexus-global)<b>
+-<b> Cloud Security Architecture Review & Design (https://github.com/KevoT0/cloud-security-architecture-review)<b>
 
 <h2>👨‍💻 CYSA+ Projects</h2>
 
