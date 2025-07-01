@@ -25,7 +25,7 @@
 - <b> Setting Up Active direcctory & creating a Group Policy Object (https://github.com/KevoT0/Azure-AD)<b>
 - <b> Metasploitable Network Capture Analysis (https://github.com/KevoT0/Peeking-behind-the-Curtin-Wireshark-Based-Network-Security-Assessment)<b>
 - <b> Exploring windows Registry (https://github.com/KevoT0/Exploring-Windows-Registry)<b>
-- <b> Windows 10 Administrative Operations Lab (https://github.com/KevoT0/windows-client-os-admin-lab)
+- <b> Windows 10 Client Administration: Core Infrastructure Operations (https://github.com/KevoT0/windows-client-os-admin-lab)
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
