@@ -23,7 +23,6 @@
 <h2>👨‍💻 IT SUPPORT Projects</h2>
 
 - <b> Setting Up Active direcctory & creating a Group Policy Object (https://github.com/KevoT0/Azure-AD)<b>
-- <b> Metasploitable Network Capture Analysis (https://github.com/KevoT0/Peeking-behind-the-Curtin-Wireshark-Based-Network-Security-Assessment)<b>
 - <b> Exploring windows Registry (https://github.com/KevoT0/Exploring-Windows-Registry)<b>
 - <b> Windows 10 Client Administration: Core Infrastructure Operations (https://github.com/KevoT0/windows-client-os-admin-lab)
 
@@ -35,6 +34,7 @@
 - <b>Penetration testing and Log Analysis(LimaCharlie) (https://github.com/KevoT0/Penetration-testing-and-Log-Analysis) <b>
 - <b>Implementing a SOC and Honeynet in Azure (https://github.com/KevoT0/Implementing-a-SOC-and-Honeynet-in-Azure)<b>
 - <b>Vulnerability Management: Nessus (https://github.com/KevoT0/Vulnerability-Management-Nessus)<b>
+- <b> Metasploitable Network Capture Analysis (https://github.com/KevoT0/Peeking-behind-the-Curtin-Wireshark-Based-Network-Security-Assessment)<b>
 
 <h2>👨‍💻 TRYHACKME PROJECTS </h2>
 <h3> SOC ANALYST LEVEL 1 </h3>
