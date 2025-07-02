@@ -25,6 +25,8 @@
 - <b> Setting Up Active direcctory & creating a Group Policy Object (https://github.com/KevoT0/Azure-AD)<b>
 - <b> Exploring windows Registry (https://github.com/KevoT0/Exploring-Windows-Registry)<b>
 - <b> Windows 10 Client Administration: Core Infrastructure Operations (https://github.com/KevoT0/windows-client-os-admin-lab)
+- <b> Network Diagnostics & Firewall Analysis (Windows) (https://github.com/KevoT0/win-network-troubleshooting)
+- <b> Essential Linux Operations & Administration (https://github.com/KevoT0/linux-admin-basics)
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
