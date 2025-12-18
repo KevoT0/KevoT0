@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cyber Range Projects</h2>
 
 - <b> Cloud VM Exposure Vulnerability Assessment Windows & Linux (https://github.com/KevoT0/Cloud-VM-Exposure-Vulnerability-Assessment-Windows-Linux-)</b>
-
 - <b> DISA STIG Compliance Assessment – Windows 11 (Azure VM) (https://github.com/KevoT0/DISA-STIG-Compliance-Assessment-Windows-11-Azure-VM-) </b>
 
 <h2>👨‍💻 GRC Analyst Projects</h2>
