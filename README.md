@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevoT0">Graduate</a>, Cyberscurity Graduate</h1>
 
-<h2>Cyber Range Projects</h2>
+<h2>👨‍💻 Cyber Range Projects</h2>
 
 - <b> Cloud VM Exposure Vulnerability Assessment Windows & Linux (https://github.com/KevoT0/Cloud-VM-Exposure-Vulnerability-Assessment-Windows-Linux-)</b>
 
