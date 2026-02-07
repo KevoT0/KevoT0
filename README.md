@@ -43,6 +43,9 @@
 - <b>Vulnerability Management: Nessus (https://github.com/KevoT0/Vulnerability-Management-Nessus)<b>
 - <b> Metasploitable Network Capture Analysis (https://github.com/KevoT0/Peeking-behind-the-Curtin-Wireshark-Based-Network-Security-Assessment)<b>
 
+<h2>Cloud Security Engineer</h2>
+- <b>  Hardening the  landing zone (https://github.com/KevoT0/project1-hardened-azure-landing-zone/tree/main)<b>
+
 <h2>👨‍💻 TRYHACKME PROJECTS </h2>
 <h3> SOC ANALYST LEVEL 1 </h3>
 
