@@ -54,7 +54,7 @@
 - <b>Bengin: Splnunk Challenge Tryhackme (https://github.com/KevoT0/Benign-Splunk-Challenge-Tryhackme)
 - <b>Summit Challenge (https://github.com/KevoT0/Tryhackme-Summit-Challenge)
 
-<h2> sentinel-soc-detection-lab </h2>
+<h2> sentinel-soc-detection-lab </h2> https://github.com/KevoT0/sentinel-soc-detection-lab 
 
 
 <h2>📺 Certification</h2>
