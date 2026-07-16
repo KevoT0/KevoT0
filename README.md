@@ -54,7 +54,10 @@
 - <b>Bengin: Splnunk Challenge Tryhackme (https://github.com/KevoT0/Benign-Splunk-Challenge-Tryhackme)
 - <b>Summit Challenge (https://github.com/KevoT0/Tryhackme-Summit-Challenge)
 
-<h2> sentinel-soc-detection-lab </h2> https://github.com/KevoT0/sentinel-soc-detection-lab 
+<h2> sentinel-soc-detection-lab </h2> 
+
+- <b> Sentinel Project (https://github.com/KevoT0/sentinel-soc-detection-lab) <b>
+- <B> Microsoft Intune-end point Management & Zero Trust Access (https://github.com/KevoT0/-Microsoft-Intune-Endpoint-Management-Zero-Trust-Access-Lab) <b>
 
 
 <h2>📺 Certification</h2>
