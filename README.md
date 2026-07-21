@@ -59,6 +59,7 @@
 - <b> Sentinel Project (https://github.com/KevoT0/sentinel-soc-detection-lab) <b>
 - <B> Microsoft Intune-end point Management & Zero Trust Access (https://github.com/KevoT0/-Microsoft-Intune-Endpoint-Management-Zero-Trust-Access-Lab) <b>
 - <b> Defender XDR / Defender for Endpoint: Simulated Intrusion, Investigation & Response (https://github.com/KevoT0/Defender-XDR-Defender-for-Endpoint-Simulated-Intrusion-Investigation-Response)<b>
+- <b> Microsoft Preview (https://github.com/KevoT0/Microsoft-Preview-Data-protection-DLP) <b>
 
 
 <h2>📺 Certification</h2>
