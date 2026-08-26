@@ -1,6 +1,7 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevoT0">Graduate</a>, Cyberscurity Graduate</h1>
 
 <h2> SC-200 Projects </h2>
+
 - <b> Threat Hunt: Okta Account Takeover from Anomalous Geolocation(https://github.com/KevoT0/Okta-Account-Takeover)</b>
 
 <h2>👨‍💻 Cyber Range Projects</h2>
@@ -47,7 +48,8 @@
 - <b> Metasploitable Network Capture Analysis (https://github.com/KevoT0/Peeking-behind-the-Curtin-Wireshark-Based-Network-Security-Assessment)<b>
 
 <h2>Cloud Security Engineer</h2>
-- <b>  Hardening the  landing zone (https://github.com/KevoT0/project1-hardened-azure-landing-zone/tree/main)<b>
+
+- <b>Hardening the  landing zone(https://github.com/KevoT0/project1-hardened-azure-landing-zone/tree/main)<b>
 
 <h2>👨‍💻 TRYHACKME PROJECTS </h2>
 <h3> SOC ANALYST LEVEL 1 </h3>
