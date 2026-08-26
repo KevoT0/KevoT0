@@ -62,7 +62,7 @@
 - <b>Bengin: Splnunk Challenge Tryhackme (https://github.com/KevoT0/Benign-Splunk-Challenge-Tryhackme)
 - <b>Summit Challenge (https://github.com/KevoT0/Tryhackme-Summit-Challenge)
 
-<h2> sentinel-soc-detection-lab </h2> 
+<h2> 👨‍💻 sentinel-soc-detection-lab </h2> 
 
 - <b> Sentinel Project (https://github.com/KevoT0/sentinel-soc-detection-lab) <b>
 - <B> Microsoft Intune-end point Management & Zero Trust Access (https://github.com/KevoT0/-Microsoft-Intune-Endpoint-Management-Zero-Trust-Access-Lab) <b>
@@ -76,6 +76,7 @@
 - CompTIA Network+
 - AWS Cloud Practitioner
 - AWS Solution Architect Associate
+- SC-200 (Ongoing)
 
 <h2> 🤳 Connect with me:</h2>
 
