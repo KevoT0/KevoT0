@@ -3,6 +3,8 @@
 <h2> SC-200 Projects </h2>
 
 - <b> Threat Hunt: Okta Account Takeover from Anomalous Geolocation(https://github.com/KevoT0/Okta-Account-Takeover)</b>
+- <b> Threat Hunt: RDP Brute-Force Attack on Internet-Facing Windows Hosts(https://github.com/KevoT0/RDP-Brute-Force-Attack)<b>
+- <b> Threat Hunt: RDP Brute-Force Attack on Internet-Facing Windows Hosts(https://github.com/KevoT0/RDP-Brute-Force-Attack)<b>
 
 <h2>👨‍💻 Cyber Range Projects</h2>
 
