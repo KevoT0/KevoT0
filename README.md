@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevoT0">Graduate</a>, Cyberscurity Graduate</h1>
 
-<h2> SC-200 Projects </h2>
+<h2>👨‍💻 SC-200 Projects </h2>
 
 - <b> Threat Hunt: Okta Account Takeover from Anomalous Geolocation(https://github.com/KevoT0/Okta-Account-Takeover)</b>
 - <b> Threat Hunt: RDP Brute-Force Attack on Internet-Facing Windows Hosts(https://github.com/KevoT0/RDP-Brute-Force-Attack)<b>
