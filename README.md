@@ -14,6 +14,7 @@
 
 <h2>👨‍💻 GRC Analyst Projects</h2>
 
+- <b> ISO-27001 Certification (https://github.com/KevoT0/Meridian-HR-Cloud-ISO-27001-GRC-Portfolio-Project)
 - <b> Cloud Audit (https://github.com/KevoT0/Cloud-Audit)</b>
 - <b> Vulnerability Management (https://github.com/KevoT0/Vuln-Manage)</b>
 - <b> Vendor Risk Assessment (https://github.com/KevoT0/Vendor-Risk-assessment)<b>
