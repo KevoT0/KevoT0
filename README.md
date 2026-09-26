@@ -3,7 +3,9 @@
 
 <h2> IAM PROJECT</h2>
 
-- <b> JML Lifecycle Automation in Microsoft Entra ID (https://github.com/KevoT0/JML-Lifecycle-Automation-in-Microsoft-Entra-ID)
+- <b> JML Lifecycle Automation in Microsoft Entra ID (https://github.com/KevoT0/JML-Lifecycle-Automation-in-Microsoft-Entra-ID) </b>
+- <b> Entra Conditioanal Access (https://github.com/KevoT0/Entra-Conditional-Access)</b>
+
 <h2>👨‍💻 SC-200 Projects </h2>
 
 - <b> Threat Hunt: Okta Account Takeover from Anomalous Geolocation(https://github.com/KevoT0/Okta-Account-Takeover)</b>
