@@ -5,6 +5,7 @@
 
 - <b> JML Lifecycle Automation in Microsoft Entra ID (https://github.com/KevoT0/JML-Lifecycle-Automation-in-Microsoft-Entra-ID) </b>
 - <b> Entra Conditioanal Access (https://github.com/KevoT0/Entra-Conditional-Access)</b>
+- <b> Privileged Identity Management (PIM) in Microsoft Entra ID (https://github.com/KevoT0/Entra-Privileged-Identity-Management)</b>
 
 <h2>👨‍💻 SC-200 Projects </h2>
 
