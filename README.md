@@ -1,18 +1,22 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevoT0">Graduate</a>, Cyberscurity Graduate</h1>
 
 
-<h2> IAM PROJECT</h2>
+<h2>👨‍💻 IAM PROJECT</h2>
 
 - <b> JML Lifecycle Automation in Microsoft Entra ID (https://github.com/KevoT0/JML-Lifecycle-Automation-in-Microsoft-Entra-ID) </b>
 - <b> Entra Conditioanal Access (https://github.com/KevoT0/Entra-Conditional-Access)</b>
 - <b> Privileged Identity Management (PIM) in Microsoft Entra ID (https://github.com/KevoT0/Entra-Privileged-Identity-Management)</b>
 
-<h2>👨‍💻 SC-200 Projects </h2>
+<h2>👨‍💻 SOC Analyst Projects </h2>
 
 - <b> Threat Hunt: Okta Account Takeover from Anomalous Geolocation(https://github.com/KevoT0/Okta-Account-Takeover)</b>
 - <b> Threat Hunt: RDP Brute-Force Attack on Internet-Facing Windows Hosts(https://github.com/KevoT0/RDP-Brute-Force-Attack)<b>
 - <b> Detection Engineering: RDP Brute-Force Scheduled Analytics Rule(https://github.com/KevoT0/RDP-Brute-Force-Scheduled-Analytics-Rule)<b>
 - <b> Incident Response: End-to-End Investigation of Windows Security Log Clearing(https://github.com/KevoT0/End-to-End-Investigation-of-Windows-Security-Log-Clearing)<b>
+
+<h2>👨‍💻 ITSM Project</h2>
+- <b> </b>
+
 
 <h2>👨‍💻 Cyber Range Projects</h2>
 
