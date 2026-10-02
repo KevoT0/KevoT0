@@ -7,6 +7,7 @@
 - <b> Entra Conditioanal Access (https://github.com/KevoT0/Entra-Conditional-Access)</b>
 - <b> Privileged Identity Management (PIM) in Microsoft Entra ID (https://github.com/KevoT0/Entra-Privileged-Identity-Management)</b>
 - <b> Entra Access Review (https://github.com/KevoT0/Entra-Access-Reviews)</b>
+- <b> Entra-AWS-SAML-Federation (https://github.com/KevoT0/Entra-AWS-SAML-Federation)</b>
 
 <h2>👨‍💻 SOC Analyst Projects </h2>
 
