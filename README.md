@@ -15,6 +15,7 @@
 - <b> Threat Hunt: RDP Brute-Force Attack on Internet-Facing Windows Hosts(https://github.com/KevoT0/RDP-Brute-Force-Attack)<b>
 - <b> Detection Engineering: RDP Brute-Force Scheduled Analytics Rule(https://github.com/KevoT0/RDP-Brute-Force-Scheduled-Analytics-Rule)<b>
 - <b> Incident Response: End-to-End Investigation of Windows Security Log Clearing(https://github.com/KevoT0/End-to-End-Investigation-of-Windows-Security-Log-Clearing)<b>
+- <b> Cross-Platform Threat Correlation (https://github.com/KevoT0/Cross-Platform-Threat-Correlation) <b>
 
 <h2>👨‍💻 ITSM Project</h2>
 - <b> </b>
