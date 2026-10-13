@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <a href="https://github.com/KevoT0"></a>, Cyberscurity Professional</h1>
+<h1>Hi, I'm Kevin <a href="https://github.com/KevoT0"></a>, Cyberscurity Professional</h1>
 
 <h2>👨‍💻 SOC Analyst Projects </h2>
 
@@ -12,7 +12,7 @@
 <h2>👨‍💻 IAM PROJECT</h2>
 
 - <b> JML Lifecycle Automation in Microsoft Entra ID (https://github.com/KevoT0/JML-Lifecycle-Automation-in-Microsoft-Entra-ID) </b>
-- <b> Entra Conditioanal Access (https://github.com/KevoT0/Entra-Conditional-Access)</b>
+- <b> Entra Conditional Access (https://github.com/KevoT0/Entra-Conditional-Access)</b>
 - <b> Privileged Identity Management (PIM) in Microsoft Entra ID (https://github.com/KevoT0/Entra-Privileged-Identity-Management)</b>
 - <b> Entra Access Review (https://github.com/KevoT0/Entra-Access-Reviews)</b>
 - <b> Entra-AWS-SAML-Federation (https://github.com/KevoT0/Entra-AWS-SAML-Federation)</b>
