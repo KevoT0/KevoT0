@@ -1,5 +1,13 @@
 <h1>Hi, I'm Kevin! <a href="https://github.com/KevoT0"></a>, Cyberscurity Professional</h1>
 
+<h2>👨‍💻 SOC Analyst Projects </h2>
+
+- <b> Identity-Takeover-Threat-Hunt (https://github.com/KevoT0/Identity-Takeover-Threat-Hunt)</b>
+- <b> Threat Hunt: Brute-Force Attack on Internet-Facing Windows Hosts(https://github.com/KevoT0/Brute-Force-Threat-Hunt)<b>
+- <b> Detection Engineering: Scheduled Analytics Rule(https://github.com/KevoT0/Brute-Force-Detection-Engineering)<b>
+- <b> Incident Response: End-to-End Investigation of Windows Security Log Clearing(https://github.com/KevoT0/End-to-End-Investigation-of-Windows-Security-Log-Clearing)<b>
+- <b> Cross-Platform Threat Correlation(https://github.com/KevoT0/Cross-Platform-Threat-Correlation)<b>
+- <b> Multi-Platform-Campaign-Reconstruction(https://github.com/KevoT0/Multi-Platform-Campaign-Reconstruction)<b>
 
 <h2>👨‍💻 IAM PROJECT</h2>
 
@@ -9,14 +17,6 @@
 - <b> Entra Access Review (https://github.com/KevoT0/Entra-Access-Reviews)</b>
 - <b> Entra-AWS-SAML-Federation (https://github.com/KevoT0/Entra-AWS-SAML-Federation)</b>
 
-<h2>👨‍💻 SOC Analyst Projects </h2>
-
-- <b> Identity-Takeover-Threat-Hunt (https://github.com/KevoT0/Identity-Takeover-Threat-Hunt)</b>
-- <b> Threat Hunt: Brute-Force Attack on Internet-Facing Windows Hosts(https://github.com/KevoT0/Brute-Force-Threat-Hunt)<b>
-- <b> Detection Engineering: Scheduled Analytics Rule(https://github.com/KevoT0/Brute-Force-Detection-Engineering)<b>
-- <b> Incident Response: End-to-End Investigation of Windows Security Log Clearing(https://github.com/KevoT0/End-to-End-Investigation-of-Windows-Security-Log-Clearing)<b>
-- <b> Cross-Platform Threat Correlation(https://github.com/KevoT0/Cross-Platform-Threat-Correlation)<b>
-- <b> Multi-Platform-Campaign-Reconstruction(https://github.com/KevoT0/Multi-Platform-Campaign-Reconstruction)<b>
 
 <h2>👨‍💻 ITSM Project</h2>
 - <b> </b>
