@@ -8,6 +8,7 @@
 - <b> Incident Response: End-to-End Investigation of Windows Security Log Clearing(https://github.com/KevoT0/End-to-End-Investigation-of-Windows-Security-Log-Clearing)<b>
 - <b> Cross-Platform Threat Correlation(https://github.com/KevoT0/Cross-Platform-Threat-Correlation)<b>
 - <b> Multi-Platform-Campaign-Reconstruction(https://github.com/KevoT0/Multi-Platform-Campaign-Reconstruction)<b>
+- <b> Soar Capstone Project (https://github.com/KevoT0/sentinel-soar-capstone)<b>
 
 <h2>👨‍💻 IAM PROJECT</h2>
 
