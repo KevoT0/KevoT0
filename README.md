@@ -20,6 +20,7 @@
 
 
 <h2>👨‍💻 Data Security & Information Protection (Microsoft Purview) Project</h2>
+
 - <b> Copilot Readiness with Microsoft Purview (https://github.com/KevoT0/Copilot-Readiness-with-Microsoft-Purview-Project-Overview)</b>
 
 
