@@ -19,8 +19,8 @@
 - <b> Entra-AWS-SAML-Federation (https://github.com/KevoT0/Entra-AWS-SAML-Federation)</b>
 
 
-<h2>👨‍💻 Data Security & Information Protection (**Microsoft Purview**) Project</h2>
-- <b> </b>
+<h2>👨‍💻 Data Security & Information Protection (Microsoft Purview) Project</h2>
+- <b> Copilot Readiness with Microsoft Purview (https://github.com/KevoT0/Copilot-Readiness-with-Microsoft-Purview-Project-Overview)</b>
 
 
 <h2>👨‍💻 Cyber Range Projects</h2>
