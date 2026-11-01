@@ -19,7 +19,7 @@
 - <b> Entra-AWS-SAML-Federation (https://github.com/KevoT0/Entra-AWS-SAML-Federation)</b>
 
 
-<h2>👨‍💻 ITSM Project</h2>
+<h2>👨‍💻 Data Security & Information Protection (**Microsoft Purview**) Project</h2>
 - <b> </b>
 
 
